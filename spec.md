@@ -11,12 +11,13 @@ The Todo App is a lightweight task manager that runs entirely in the browser. Us
 - Add new tasks
 - Delete existing tasks
 - Persist tasks using localStorage
+- Responsive and clean UI with CSS styling
 
 
 ## Technical Requirements
 - HTML for structure
+- CSS for styling
 - JavaScript for dynamic behavior
-- CSS for styling (optional)
 - LocalStorage for data persistence
 
 
